@@ -1,0 +1,23 @@
+{
+  "name": "alexa-skills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.87.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raniazy/alexa-skills.git"
+  },
+  "author": {
+    "name": "Rania ZYANE",
+    "email": "rania.zyane@gmail.com",
+    "url": "https://github.com/Raniazy"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Raniazy/alexa-skills/issues"
+  },
+  "homepage": "/"
+}
